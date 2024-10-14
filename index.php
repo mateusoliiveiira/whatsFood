@@ -41,7 +41,7 @@ function formatMoney($number, $cents = 1)
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.3.1/css/ol.css">
     <link rel="icon" href="./assets/img/whatsfood.png">
 
-    <title>WhatsFood</title>
+    <title>Lachonete do Gil</title>
 
     <link rel="canonical" href="https://weslleymendes.com.br/whatsFood">
 
@@ -64,7 +64,7 @@ function formatMoney($number, $cents = 1)
 
         <div class="py-5 text-center">
             <img class="d-block mx-auto mb-4" src="./assets/img/icone2.png" alt="" width="350" height="200">
-            <h1>WhatsFood</h1>
+            <h1>Lanchonete do Gil</h1>
             <h5>Seja bem vindo!</h5>
             <p class="lead"><b>Preencha o formulario a baixo:</b></p>
         </div>
